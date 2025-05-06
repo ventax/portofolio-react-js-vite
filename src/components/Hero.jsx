@@ -19,7 +19,7 @@ const Hero = () => {
                 <div className="">
                     <figure className="">
                         <img
-                         src="/image/avatar-1.jpg"
+                         src="/images/avatar-1.jpg"
                          width={40}
                          height={40}
                          alt="Maulana Potrait"
@@ -52,7 +52,7 @@ const Hero = () => {
             <div className="">
                 <figure className="">
                     <img
-                     src="/images/hero-banner.png" 
+                     src="/images/maulana-foto-ori.png" 
                      width={656}
                      height={800}
                      alt="Maulana Potrait" 
