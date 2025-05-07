@@ -24,7 +24,7 @@ const Header = () => {
           className="logo"
           >
           <img
-           src="/images/logo.svg"
+           src="/images/logo.png"
             width={40} 
             height={40}
             alt="Xeyna"/>
@@ -39,7 +39,7 @@ const Header = () => {
         onClick={()=> setNavOpen((prev) => !prev)}>
         
         <span 
-        className="material-icons"
+        className="material-symbols-rounded"
         >
         {navOpen ? 'close' : 'menu'}
         </span>
