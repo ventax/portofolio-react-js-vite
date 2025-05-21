@@ -9,39 +9,39 @@ import ReviewCard from "./ReviewCard";
 const reviews = [
     {
       content: 'Exceptional web development! Delivered a seamless, responsive site with clean code and great UX.',
-      name: 'Sophia Ramirez',
-      imgSrc: '/images/people-1.jpg',
-      company: 'PixelForge'
+      name: 'Ken Hiragi',
+      imgSrc: '/images/ucup1.jpeg',
+      company: 'Yusup Jawier'
     },
     {
       content: 'Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.',
-      name: 'Ethan Caldwell',
+      name: 'Rusdi',
       imgSrc: '/images/people-2.jpg',
-      company: 'NexaWave'
+      company: 'Budiono Sitegar'
     },
     {
       content: 'Outstanding developer! Built a robust site with perfect functionality. Efficient and detail-oriented.',
-      name: 'Liam Bennett',
+      name: 'Reval',
       imgSrc: '/images/people-3.jpg',
-      company: 'CodeCraft'
+      company: 'ValzCode'
     },
     {
       content: 'Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.',
-      name: 'Noah Williams',
+      name: 'Tantra',
       imgSrc: '/images/people-4.jpg',
-      company: 'BrightWeb'
+      company: 'Desvoria'
     },
     {
       content: 'Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.',
-      name: 'Ava Thompson',
+      name: 'Tegar',
       imgSrc: '/images/people-5.jpg',
-      company: 'TechMosaic'
+      company: 'Troject'
     },
     {
       content: 'Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.',
-      name: 'Jonathan',
+      name: 'Lukman',
       imgSrc: '/images/people-6.jpg',
-      company: 'Skyline Digital'
+      company: 'Calwyn'
     }
   ];
 

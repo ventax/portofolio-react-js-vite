@@ -52,7 +52,16 @@ const sitemap = [
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className="section">
+      <div className="container">
+
+        <div className="">
+          <div className="">
+            <h2 class="headline-1"></h2>
+          </div>
+        </div>
+      </div>
+    </footer>
   )
 }
 
