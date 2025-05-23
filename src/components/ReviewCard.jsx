@@ -9,7 +9,8 @@ const ratings = new Array(5);
 ratings.fill({
     icon: 'star',
     style: { fontVariationSettings: '"FILL" 1' }
-})
+});
+
 
 const ReviewCard = ({
     content,
