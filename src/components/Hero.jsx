@@ -52,6 +52,7 @@ const Hero = () => {
                     <ButtonPrimary 
                     label="Download CV"
                     icon="download"
+                    href="https://www.mediafire.com/file/jp43vbs8n9vy24s/CV_MAULANA_KENANG_FIRDAUS.pdf/file"
                     />
 
                     <ButtonOutline
